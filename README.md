@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Javascript, Tailwind CSS, Figma**
 
 - 📫 Let's get in touch: **noela.ostric@gmail.com**  | 
-<a href="https://www.linkedin.com/in/noela-ostric-036484245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noela ostric linked in" height="10" width="30" /></a>
+<a href="https://www.linkedin.com/in/noela-ostric-036484245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noela ostric linked in" height="10" width="20" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
